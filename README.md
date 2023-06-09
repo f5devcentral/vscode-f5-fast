@@ -1,20 +1,18 @@
-# Solutions Engineering Template Repository
+# vscode-f5-fast
 
-A template repository that contains all required files (LICENSE, SUPPORT, CONTRIBUTING, etc) as outlined in the org standards.  
-
-The sections below are recommended in your project's README.md file.
+F5 vscode extension dedicated to F5 FAST template authoring and deployment
 
 ## Overview
 
-Provide a short overview of the project.
+The core f5 fast engine has been a part of the main vscode-f5 extension for some time.  This project aims to provide a standalone and robust workspace to author and deploy FAST template, which can/will be integrated with all the other vscode projects.
 
 ## Getting Started
 
-Provide a quick example of how to use your code.  This should provide the user with a launch point to quickly see what the project can offer them.
+will fill in as we get close to an MVP
 
 ## Installation
 
-Outline the requirements and steps to install this project.
+VSCode Marketplace
 
 ## Usage
 
